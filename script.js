@@ -1244,293 +1244,157 @@ const subjects = {
         }
   ],
     "Chm 101": [
-    
-        {
-          question: "The reaction A ⇌ B has an equilibrium constant of K = 10⁻⁴. Which of the following statements is always correct?",
-          options: [
-            "The reaction will have 50% product B and 50% reactant A at equilibrium.",
-            "The reaction is very favorable and will have mostly product B at equilibrium.",
-            "The reaction is unfavorable and will not have very much product B at equilibrium."
-          ],
-          correct: "The reaction is unfavorable and will not have very much product B at equilibrium."
-        },
-        {
-          question: "Which of the following statements most accurately relates the properties of a liquid at room temperature with its vapor pressure?",
-          options: [
-            "A liquid low vapor pressure will probably have a high surface tension and a high boiling point.",
-            "A liquid low vapor pressure will probably have a low surface tension and a high boiling point.",
-            "A liquid high vapor pressure will probably have a low surface tension and a high boiling point."
-          ],
-          correct: "A liquid low vapor pressure will probably have a high surface tension and a high boiling point."
-        },
-        {
-          question: "For a reversible reaction, the equilibrium lies to the:",
-          options: ["Left", "Right", "Middle"],
-          correct: "Right"
-        },
-        {
-          question: "Which of the following is true for the composition of the equilibrium mixture. If ΔG = 0 and K = 1 the mixture is:",
-          options: ["Mostly products", "Mostly reactants", "Neither reactants nor products are favored"],
-          correct: "Neither reactants nor products are favored"
-        },
-        {
-          question: "Calculate the value of K at 298K for the following reaction: N₂ (g) + 3H₂ (g) ⇌ 2NH₃ (g). Given ΔG = -32.96 KJmol⁻¹.",
-          options: ["5.97 × 10⁻⁵", "13.3", "-13.3"],
-          correct: "5.97 × 10⁻⁵"
-        },
-        {
-          question: "Of the following reactions, which of the reaction processes is only spontaneous at high temperatures?",
-          options: ["ΔH+, ΔS-", "ΔH+, ΔS+", "ΔH-, ΔS-"],
-          correct: "ΔH+, ΔS+"
-        },
-        {
-          question: "The incomplete combustion of carbon is described by the following equation: O₂ (g) → 2CO(g). How does the spontaneity of this process depend upon temperature?",
-          options: [
-            "Spontaneous (ΔG < 0) at all temperatures",
-            "Spontaneous at high temperature",
-            "Non-spontaneous process"
-          ],
-          correct: "Spontaneous at high temperature"
-        },
-        {
-          question: "A condition of a predation process describes an endothermic process with an increase in system entropy, ΔG will be negative if:",
-          options: [
-            "ΔH is greater than ΔS",
-            "ΔH is less than ΔS",
-            "ΔH; TΔS = 0"
-          ],
-          correct: "ΔH is less than ΔS"
-        },
-        {
-          question: "At 25°C, a reaction has a Gibb's free energy change of +45 kJ. If the enthalpy change of the reaction is +35 kJ, what is the entropy change of the reaction?",
-          options: ["-400 J/K", "-33.6 J/K", "33.6 J/K"],
-          correct: "-33.6 J/K"
-        },
-        {
-          question: "Energy can neither be created nor destroyed but can be converted from one form to another is inferred from:",
-          options: [
-            "Zeroth law of thermodynamics",
-            "First law of thermodynamics",
-            "Second law of thermodynamics"
-          ],
-          correct: "First law of thermodynamics"
-        },
-        {
-          question: "From the equation 2NO(g) ⇌ N₂ + O₂ (g): At equilibrium, [NO₂] = 0.016 M and [N₂O₄] = 0.042 M. What is the value of the equilibrium constant for the reaction?",
-          options: ["1.6 × 10⁻²", "-1.6 × 10⁻⁵", "0.016"],
-          correct: "1.6 × 10⁻²"
-        },
-        {
-          question: "For the reaction, 2SO₂ (g) + O₂ (g) ⇌ 2SO₃ (g) the concentrations at equilibrium are [SO₂] = 0.90 M, [O₂] = 0.35 M, and [SO₃] = 1.1 M. What is the value of the equilibrium constant, Kc?",
-          options: ["Kc = 3.4", "Kc = 6.9"],
-          correct: "Kc = 3.4"
-        },
-      {
-        question: "The reaction A ⇌ B has an equilibrium constant of K = 10⁻⁴. Which of the following statements is always correct?",
-        options: [
-          "The reaction will have 50% product B and 50% reactant A at equilibrium.",
-          "The reaction is very favorable and will have mostly product B at equilibrium.",
-          "The reaction is unfavorable and will not have very much product B at equilibrium."
-        ],
-        correct: "The reaction is unfavorable and will not have very much product B at equilibrium."
-      },
-      {
-        question: "Which of the following statements most accurately relates the properties of a liquid at room temperature with its vapor pressure?",
-        options: [
-          "A liquid low vapor pressure will probably have a high surface tension and a high boiling point.",
-          "A liquid low vapor pressure will probably have a low surface tension and a high boiling point.",
-          "A liquid high vapor pressure will probably have a low surface tension and a high boiling point."
-        ],
-        correct: "A liquid low vapor pressure will probably have a high surface tension and a high boiling point."
-      },
-      {
-        question: "For a reversible reaction, the equilibrium lies to the:",
-        options: ["Left", "Right", "Middle"],
-        correct: "Right"
-      },
-      {
-        question: "Which of the following is true for the composition of the equilibrium mixture. If ΔG = 0 and K = 1 the mixture is:",
-        options: ["Mostly products", "Mostly reactants", "Neither reactants nor products are favored"],
-        correct: "Neither reactants nor products are favored"
-      },
-      {
-        question: "Calculate the value of K at 298K for the following reaction: N₂ (g) + 3H₂ (g) ⇌ 2NH₃ (g). Given ΔG = -32.96 KJmol⁻¹.",
-        options: ["5.97 × 10⁻⁵", "13.3", "-13.3"],
-        correct: "5.97 × 10⁻⁵"
-      },
-      {
-        question: "Of the following reactions, which of the reaction processes is only spontaneous at high temperatures?",
-        options: ["ΔH+, ΔS-", "ΔH+, ΔS+", "ΔH-, ΔS-"],
-        correct: "ΔH+, ΔS+"
-      },
-      {
-        question: "The incomplete combustion of carbon is described by the following equation: O₂ (g) → 2CO(g). How does the spontaneity of this process depend upon temperature?",
-        options: [
-          "Spontaneous (ΔG < 0) at all temperatures",
-          "Spontaneous at high temperature",
-          "Non-spontaneous process"
-        ],
-        correct: "Spontaneous at high temperature"
-      },
-      {
-        question: "A condition of a predation process describes an endothermic process with an increase in system entropy, ΔG will be negative if:",
-        options: [
-          "ΔH is greater than ΔS",
-          "ΔH is less than ΔS",
-          "ΔH; TΔS = 0"
-        ],
-        correct: "ΔH is less than ΔS"
-      },
-      {
-        question: "At 25°C, a reaction has a Gibb's free energy change of +45 kJ. If the enthalpy change of the reaction is +35 kJ, what is the entropy change of the reaction?",
-        options: ["-400 J/K", "-33.6 J/K", "33.6 J/K"],
-        correct: "-33.6 J/K"
-      },
-      {
-        question: "Energy can neither be created nor destroyed but can be converted from one form to another is inferred from:",
-        options: [
-          "Zeroth law of thermodynamics",
-          "First law of thermodynamics",
-          "Second law of thermodynamics"
-        ],
-        correct: "First law of thermodynamics"
-      },
-      {
-        question: "From the equation 2NO(g) ⇌ N₂ + O₂ (g): At equilibrium, [NO₂] = 0.016 M and [N₂O₄] = 0.042 M. What is the value of the equilibrium constant for the reaction?",
-        options: ["1.6 × 10⁻²", "-1.6 × 10⁻⁵", "0.016"],
-        correct: "1.6 × 10⁻²"
-      },
-      {
-        question: "For the reaction, 2SO₂ (g) + O₂ (g) ⇌ 2SO₃ (g) the concentrations at equilibrium are [SO₂] = 0.90 M, [O₂] = 0.35 M, and [SO₃] = 1.1 M. What is the value of the equilibrium constant, Kc?",
-        options: ["Kc = 3.4", "Kc = 6.9"],
-        correct: "Kc = 3.4"
-      },
-        {
-          question: "Calculate the reaction quotient and determine the direction of the equilibrium shift.",
-          options: [
-            "Qₐ < Kₐ = 1.9 × 10⁻⁷, shift left",
-            "Qₐ < Kₐ = 6.45 × 10³, shift right",
-            "Qₐ > Kₐ = 4.6 × 10⁴, none is favoured"
-          ],
-          correct: "Qₐ < Kₐ = 6.45 × 10³, shift right"
-        },
-        {
-          question: "Which of the statements defines the activity of a substance?",
-          options: [
-            "Degree of randomness of a system",
-            "A measure of its effective concentration under specified conditions.",
-            "A measure of heat content of a substance."
-          ],
-          correct: "A measure of its effective concentration under specified conditions."
-        },
-        {
-          question: "A system in which reactants and products are found in two or more phases is a:",
-          options: [
-            "Phase equilibrium",
-            "Chemical equilibrium",
-            "Heterogeneous equilibrium"
-          ],
-          correct: "Heterogeneous equilibrium"
-        },
-        {
-          question: "One of the following is an example of heterogeneous equilibria.",
-          options: [
-            "H₂ (g) ⇌ C₂H₄ (g) + H₂ (g)",
-            "CO(g) + H₂ (g) ⇌ C₂ (g) + H₂ (g)",
-            "PbCl₂ (s) ⇌ Pb²⁺ (aq) + 2Cl⁻ (aq)"
-          ],
-          correct: "PbCl₂ (s) ⇌ Pb²⁺ (aq) + 2Cl⁻ (aq)"
-        },
-        {
-          question: "A chemical reaction is said to be at equilibrium at:",
-          options: [
-            "Minimal degree of freedom and maximum entropy",
-            "Minimal degree of freedom and minimal entropy",
-            "Minimal entropy and minimal degree of freedom"
-          ],
-          correct: "Minimal degree of freedom and maximum entropy"  
-        },
-        {
-          question: "Predict the spontaneity of a chemical process if ΔG° = 141.7 and K = 1.4 × 10⁻²⁵ at 298K.",
-          options: [
-            "Spontaneous process",
-            "Non spontaneous",
-            "An equilibrium process"
-          ],
-          correct: "Non spontaneous"
-        },
-        {
-          question: "Estimate the boiling point of water given ΔH° = 44.01 kJ mol⁻¹ and ΔS° = 118.3 J K⁻¹ mol⁻¹.",
-          options: [
-            "97.3 K",
-            "97.3 °C",
-            "97.3 °C/mol"
-          ],
-          correct: "97.3 °C"
-        },
-        {
-          question: "Which of the following statements is true for the effect of catalyst on equilibrium?",
-          options: [
-            "Affects the rates of the reactions",
-            "Alters the equilibrium position",
-            "Catalyst remains in the reactants"
-          ],
-          correct: "Affects the rates of the reactions"
-        },
-        {
-          question: "Which of the following principles is used in predicting changes in equilibrium concentrations?",
-          options: [
-            "Fritz Haber",
-            "Le Chatelier's",
-            "Zeroth"
-          ],
-          correct: "Le Chatelier's"
-        },
-        {
-          question: "The following reaction is at equilibrium: Cl₂ + 3F₂ ⇌ 2ClF₃. How will the system respond if the volume is increased at constant temperature?",
-          options: [
-            "The reaction will shift to the left.",
-            "There will be no change to the equilibrium position",
-            "The reaction will shift to the right."
-          ],
-          correct: "The reaction will shift to the left."
-        },
-        {
-          question: "The following reaction is at equilibrium: CF₂Br₂ ⇌ CF(g) + 2Br, ΔH = 424 kJ mol⁻¹. How will the system respond if the temperature is decreased?",
-          options: [
-            "The reaction will shift to the right.",
-            "The reaction will shift to the left.",
-            "Reaction stops."
-          ],
-          correct: "The reaction will shift to the left."
-        },
-        {
-          question: "Consider this equation: 2CO(g) + O₂ ⇌ 2CO₂(g). If rewritten as CO(g) + ½O₂(g) ⇌ CO₂(g) with K', what is the relationship between Kc and K'?",
-          options: [
-            "K° = Kc°",
-            "Kc° = (K)¹ᐟ²",
-            "K = K°"
-          ],
-          correct: "Kc° = (K)¹ᐟ²"
-        },
-        {
-          question: "Identify the INCORRECT statement below regarding chemical equilibrium.",
-          options: [
-            "All chemical reactions are, in principle, reversible.",
-            "Equilibrium is achieved when the concentrations of species become constant.",
-            "Equilibrium is achieved when reactant and product concentrations are equal."
-          ],
-          correct: "Equilibrium is achieved when reactant and product concentrations are equal."
-        },
-        {
-          question: "In which of the following reactions will the equilibrium shift to the left when the pressure on the system is increased?",
-          options: [
-            "C(s) + O₂(g) ⇌ CO(g)",
-            "C(s) + O₂(g) ⇌ CO₂(g)"
-          ],
-          correct: "C(s) + O₂(g) ⇌ CO(g)"
-        }
 
+        {
+          question: "Which of the following compounds is held together by ionic bonds?",
+          options: ["H2O", "CH4", "NaCl", "NH3"],
+          correct: "NaCl"
+        },
+        {
+          question: "A covalent bond involves the:",
+          options: ["Transfer of protons", "Sharing of electrons", "Loss of neutrons", "Gaining of protons"],
+          correct: "Sharing of electrons"
+        },
+        {
+          question: "Which bond type allows free movement of electrons, making it a good conductor?",
+          options: ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+          correct: "Metallic"
+        },
+        {
+          question: "Which of the following is a Van der Waals force?",
+          options: ["Hydrogen bonding", "Ionic bonding", "Dipole-dipole interaction", "Metallic bonding"],
+          correct: "Dipole-dipole interaction"
+        },
+        {
+          question: "Hydrogen bonding occurs in:",
+          options: ["CH4", "NH3", "CO2", "NaCl"],
+          correct: "NH3"
+        },
+        {
+          question: "Which of the following is most likely to form a triple covalent bond?",
+          options: ["Hydrogen", "Nitrogen", "Sodium", "Chlorine"],
+          correct: "Nitrogen"
+        },
+        {
+          question: "Which of the following molecules has London dispersion forces as the only intermolecular force?",
+          options: ["H2O", "NH3", "CH4", "HCl"],
+          correct: "CH4"
+        },
+        {
+          question: "What is the relationship between ΔH and ΔU?",
+          options: ["ΔH = ΔU + nRT", "ΔH = ΔU + PΔV", "ΔH = ΔU - PΔV", "ΔH = ΔU × T"],
+          correct: "ΔH = ΔU + PΔV"
+        },
+        {
+          question: "Standard enthalpy of formation for an element in its standard state is:",
+          options: ["Always 1", "Always 100", "Zero", "Depends on temperature"],
+          correct: "Zero"
+        },
+        {
+          question: "Hess’s Law is based on the principle of:",
+          options: ["Conservation of mass", "Conservation of atoms", "Path independence of enthalpy", "Temperature dependency of reaction"],
+          correct: "Path independence of enthalpy"
+        },
+        {
+          question: "What is the enthalpy change for the neutralization of a strong acid and a strong base?",
+          options: ["Positive", "Zero", "Negative", "Infinite"],
+          correct: "Negative"
+        },
+        {
+          question: "Kirchhoff’s equation is used to:",
+          options: ["Measure pH", "Calculate entropy", "Estimate enthalpy at different temperatures", "Determine boiling point"],
+          correct: "Estimate enthalpy at different temperatures"
+        },
+        {
+          question: "Which of the following reactions is an example of combustion?",
+          options: ["HCl + NaOH → NaCl + H2O", "C + O2 → CO2", "Na + Cl → NaCl", "CH4 + NH3 → CH3NH2"],
+          correct: "C + O2 → CO2"
+        },
+        {
+          question: "If a bond requires 412 kJ/mol to break, this value is called:",
+          options: ["Bond energy", "Activation energy", "Heat of reaction", "Lattice energy"],
+          correct: "Bond energy"
+        },
+        {
+          question: "The enthalpy of solution refers to:",
+          options: ["Heat absorbed/released during mixing", "Heat absorbed when burning a compound", "Heat change when forming a product", "Heat change during melting"],
+          correct: "Heat absorbed/released during mixing"
+        },
+        {
+          question: "The second law of thermodynamics states:",
+          options: ["Energy is created and destroyed", "Heat flows from cold to hot", "Entropy of an isolated system increases", "Energy is conserved"],
+          correct: "Entropy of an isolated system increases"
+        },
+        {
+          question: "The Carnot cycle consists of how many processes?",
+          options: ["2", "3", "4", "5"],
+          correct: "4"
+        },
+        {
+          question: "Entropy is a measure of:",
+          options: ["Temperature", "Randomness or disorder", "Energy loss", "Chemical equilibrium"],
+          correct: "Randomness or disorder"
+        },
+        {
+          question: "Which process increases entropy the most?",
+          options: ["Freezing of water", "Condensation of steam", "Sublimation of dry ice", "Formation of NaCl"],
+          correct: "Sublimation of dry ice"
+        },
+        {
+          question: "The formula for Carnot engine efficiency is:",
+          options: ["η = W/Q", "η = T_C/T_H", "η = 1 - T_C/T_H", "η = PΔV"],
+          correct: "η = 1 - T_C/T_H"
+        },
+        {
+          question: "A reversible process:",
+          options: ["Occurs rapidly", "Is ideal and infinitely slow", "Produces more entropy", "Cannot be reversed"],
+          correct: "Is ideal and infinitely slow"
+        },
+        {
+          question: "For an irreversible process:",
+          options: ["ΔS = 0", "ΔS < 0", "ΔS > 0", "ΔS is undefined"],
+          correct: "ΔS > 0"
+        },
+        {
+          question: "In a Carnot engine, if T_H = 500 K and T_C = 300 K, efficiency is:",
+          options: ["40%", "60%", "20%", "100%"],
+          correct: "40%"
+        },
+        {
+          question: "Which of the following increases the entropy of a system?",
+          options: ["Compression of gas", "Freezing of water", "Evaporation of alcohol", "Formation of crystals"],
+          correct: "Evaporation of alcohol"
+        },
+        {
+          question: "Entropy change for a reversible process is given by:",
+          options: ["ΔS = q/T", "ΔS = T/q", "ΔS = qP/T", "ΔS = ΔH/T"],
+          correct: "ΔS = q/T"
+        },
+        {
+          question: "Which bond is present in H2O?",
+          options: ["Ionic", "Covalent", "Metallic", "Van der Waals"],
+          correct: "Covalent"
+        },
+        {
+          question: "Which of the following has all atoms bonded by metallic bonds?",
+          options: ["NaCl", "Mg", "H2O", "CO2"],
+          correct: "Mg"
+        },
+        {
+          question: "If ΔH is positive and ΔS is also positive, the reaction is spontaneous at:",
+          options: ["Low temperatures", "All temperatures", "High temperatures", "Never"],
+          correct: "High temperatures"
+        },
+        {
+          question: "Which process is exothermic?",
+          options: ["Vaporization", "Condensation", "Melting", "Sublimation"],
+          correct: "Condensation"
+        },
+        {
+          question: "Which of the following does NOT increase entropy?",
+          options: ["Boiling", "Dissolving salt", "Freezing water", "Burning fuel"],
+          correct: "Freezing water"
+        }
     ]
 };
 
@@ -1585,6 +1449,7 @@ if (window.location.pathname.includes("exam.html")) {
     let answers = {};
     let questionContainer = document.getElementById("questionContainer");
     let nextButton = document.getElementById("nextButton");
+    let prevButton = document.getElementById("prevButton");
     let submitButton = document.getElementById("submitButton");
 
     function showQuestion(index) {
@@ -1593,10 +1458,12 @@ if (window.location.pathname.includes("exam.html")) {
             let q = questions[index];
             let div = document.createElement("div");
             div.innerHTML = `<p>${index + 1}. ${q.question}</p>` +
-                q.options.map(option =>
-                    `<input type="radio" name="q${index}" value="${option}" onclick="selectAnswer(${index}, '${option}')"> ${option}<br>`
-                ).join("");
+                q.options.map(option => {
+                    const isChecked = answers[index] === option ? "checked" : "";
+                    return `<input type="radio" name="q${index}" value="${option}" onclick="selectAnswer(${index}, '${option}')" ${isChecked}> ${option}<br>`;
+                }).join("");
             questionContainer.appendChild(div);
+
             nextButton.style.display = index === questions.length - 1 ? "none" : "block";
             submitButton.style.display = index === questions.length - 1 ? "block" : "none";
             nextButton.disabled = !answers[index];
@@ -1605,26 +1472,118 @@ if (window.location.pathname.includes("exam.html")) {
 
     window.selectAnswer = function (index, value) {
         answers[index] = value;
-        nextButton.disabled = false; 
+        nextButton.disabled = false;
+    };
+
+    // Next Button
+    nextButton.onclick = function () {
+        if (currentQuestionIndex < questions.length - 1) {
+            currentQuestionIndex++;
+            showQuestion(currentQuestionIndex);
+            updateButtons();
+        }
+    };
+
+    // Previous Button
+    prevButton.onclick = function () {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            showQuestion(currentQuestionIndex);
+            updateButtons();
+        }
+    };
+
+    // Helper to enable/disable buttons
+    function updateButtons() {
+        prevButton.disabled = currentQuestionIndex === 0;
+        nextButton.disabled = currentQuestionIndex === questions.length - 1 || !answers[currentQuestionIndex];
+    }
+
+    // Submit Button
+    submitButton.onclick = function () {
+        submitExam(); // Define this function separately
+    };
+
+    // Load the first question
+    showQuestion(currentQuestionIndex);
+}
+
+localStorage.setItem("subjects", JSON.stringify(subjects));
+
+// ✅ Load exam with subject-based timer
+if (window.location.pathname.includes("exam.html")) {
+    let urlParams = new URLSearchParams(window.location.search);
+    let subject = urlParams.get("subject");
+
+    document.getElementById("subjectTitle").innerText = subject;
+    let questions = JSON.parse(localStorage.getItem("subjects"))[subject];
+
+    let currentQuestionIndex = 0;
+    let answers = {};
+    let questionContainer = document.getElementById("questionContainer");
+    let nextButton = document.getElementById("nextButton");
+    let prevButton = document.getElementById("prevButton");
+    let submitButton = document.getElementById("submitButton");
+    let timerElement = document.getElementById("timer");
+
+    function showQuestion(index) {
+        questionContainer.innerHTML = "";
+        if (index < questions.length) {
+            let q = questions[index];
+            let div = document.createElement("div");
+            div.innerHTML = `<p>${index + 1}. ${q.question}</p>` +
+                q.options.map(option => {
+                    const isChecked = answers[index] === option ? "checked" : "";
+                    return `<input type="radio" name="q${index}" value="${option}" onclick="selectAnswer(${index}, '${option}')" ${isChecked}> ${option}<br>`;
+                }).join("");
+            questionContainer.appendChild(div);
+
+            nextButton.style.display = index === questions.length - 1 ? "none" : "block";
+            submitButton.style.display = index === questions.length - 1 ? "block" : "none";
+            prevButton.style.display = index === 0 ? "none" : "block";
+            nextButton.disabled = !answers[index];
+        }
+    }
+
+    window.selectAnswer = function (index, value) {
+        answers[index] = value;
+        nextButton.disabled = false;
     };
 
     nextButton.onclick = function () {
         if (currentQuestionIndex < questions.length - 1) {
             currentQuestionIndex++;
             showQuestion(currentQuestionIndex);
-            nextButton.disabled = !answers[currentQuestionIndex]; 
+            updateButtons();
         }
     };
+
+    prevButton.onclick = function () {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            showQuestion(currentQuestionIndex);
+            updateButtons();
+        }
+    };
+
+    function updateButtons() {
+        prevButton.disabled = currentQuestionIndex === 0;
+        nextButton.disabled = currentQuestionIndex === questions.length - 1 || !answers[currentQuestionIndex];
+    }
 
     submitButton.onclick = function () {
         submitExam();
     };
 
-    showQuestion(currentQuestionIndex); 
-
     // ✅ Timer setup based on subject
-    let timeLeft = subjectTimeLimits[subject] || 1200; // Default to 20 minutes if not set
-    let timerElement = document.getElementById("timer");
+    let subjectTimeLimits = {
+        Math: 900,
+        English: 1200,
+        Biology: 1000
+        // Add more subjects and their limits
+    };
+
+    let timeLeft = subjectTimeLimits[subject] || 1200; // Default 20 min
     let warningShown = false;
 
     let timer = setInterval(() => {
@@ -1660,33 +1619,47 @@ if (window.location.pathname.includes("exam.html")) {
     }, 1000);
 
     function submitExam() {
-        let score = questions.reduce((acc, q, index) => {
-            return acc + (answers[index] === q.correct ? 1 : 0);
-        }, 0);
+        localStorage.setItem("lastExamSubject", subject);
+        let score = 0;
+
+        questions.forEach((q, index) => {
+            let selected = answers[index] || null;
+            if (selected === q.correct) {
+                score++;
+            }
+        });
+
         localStorage.setItem("score", score);
+        localStorage.setItem("totalQuestions", questions.length);
         window.location.href = "results.html";
     }
+
+    showQuestion(currentQuestionIndex);
 }
 
 // ✅ Display results
 if (window.location.pathname.includes("results.html")) {
-    document.getElementById("resultText").innerText = `Your score: ${localStorage.getItem("score")}`;
+  let score = localStorage.getItem("score") || "0";
+  let subject = localStorage.getItem("lastExamSubject");
+  let subjects = JSON.parse(localStorage.getItem("subjects")) || {};
+  let totalQuestions = subjects[subject] ? subjects[subject].length : "Unknown";
+
+  // Format the result as "score / totalQuestions"
+  document.getElementById("resultText").innerText = `Your Score: ${score} / ${totalQuestions}`;
 }
 
-function goHome() {
-    window.location.href = "index.html";
-}
+// ✅ Homepage login function
 function login() {
     let matricNumber = document.getElementById("matricNumber").value.trim();
-
-    // Check if matric number starts with "BSF"
-    if (matricNumber.startsWith("BSFc0")) {
+    if (matricNumber.startsWith("BSFC0")) {
         localStorage.setItem("matricNumber", matricNumber);
-        window.location.href = "subjects.html";  // Ensure subjects.html exists
+        window.location.href = "subjects.html";
     } else {
-        alert("Invalid Matric Number! It must start with 'BSF'.");
+        alert("Invalid Matric Number! It must start with 'BSFC0'.");
     }
 }
+
+// ✅ Show subjects on subject page
 if (window.location.pathname.includes("subjects.html")) {
     let subjectList = document.getElementById("subjectList");
     let subjects = JSON.parse(localStorage.getItem("subjects")) || {};
@@ -1700,41 +1673,39 @@ if (window.location.pathname.includes("subjects.html")) {
         });
     }
 }
-let timerElement = document.getElementById("timer");
-timerElement.innerText = "Time left: Calculating...";
-if (window.location.pathname.includes("results.html")) {
-    let score = localStorage.getItem("score") || "Not Available";
-    document.getElementById("resultText").innerText = `Your score: ${score}`;
+
+// ✅ Optional: default timer text (in case it's visible too early)
+if (document.getElementById("timer")) {
+    document.getElementById("timer").innerText = "Time left: Calculating...";
 }
-if (window.location.pathname.includes("results.html")) {
-    let score = localStorage.getItem("score") || "0"; // Get stored score
-    let subject = localStorage.getItem("lastExamSubject"); // Retrieve the last subject
-    let subjects = JSON.parse(localStorage.getItem("subjects")) || {}; // Get subjects
-    let totalQuestions = subjects[subject] ? subjects[subject].length : "Unknown"; // Count questions
-
-    document.getElementById("resultText").innerText = `Your Score: ${score} / ${totalQuestions}`;
+// Restore saved session if available
+let savedProgress = JSON.parse(localStorage.getItem("examProgress_" + subject));
+if (savedProgress) {
+    currentQuestionIndex = savedProgress.currentQuestionIndex || 0;
+    answers = savedProgress.answers || {};
+    timeLeft = savedProgress.timeLeft || timeLeft;
 }
-function submitExam() {
-    let urlParams = new URLSearchParams(window.location.search);
-    let subject = urlParams.get("subject");
-    localStorage.setItem("lastExamSubject", subject); // Store subject name
+// Save exam progress every second
+localStorage.setItem("examProgress_" + subject, JSON.stringify({
+  currentQuestionIndex,
+  answers,
+  timeLeft
+}));
+localStorage.removeItem("examProgress_" + subject);
+let matricNumber = localStorage.getItem("matricNumber");
+let studentScores = JSON.parse(localStorage.getItem("studentScores")) || {};
 
-    let questions = JSON.parse(localStorage.getItem("subjects"))[subject];
-    let totalQuestions = questions.length; // Get total number of questions in the subject
-    let score = 0; // Correct answers count
-
-    questions.forEach((q, index) => {
-        let selected = document.querySelector(`input[name="q${index}"]:checked`);
-        if (selected && selected.value === q.correct) {
-            score++; // Count correct answers
-        }
-    });
-
-    // Store results
-    localStorage.setItem("score", score);
-    localStorage.setItem("totalQuestions", totalQuestions);
-
-    // Redirect to results page
-    window.location.href = "results.html";
+if (!studentScores[matricNumber]) {
+    studentScores[matricNumber] = {};
 }
+studentScores[matricNumber][subject] = {
+    score: score,
+    total: questions.length,
+    date: new Date().toLocaleString()
+};
 
+localStorage.setItem("studentScores", JSON.stringify(studentScores));
+function viewStudentScores() {
+  let scores = JSON.parse(localStorage.getItem("studentScores")) || {};
+  console.log(scores); // or display it on screen
+}

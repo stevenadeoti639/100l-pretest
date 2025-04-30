@@ -1,5 +1,5 @@
 // 🔄 Background Image Rotation (Same as Before) 
-const images = ['two.webp', 'logo.png', 'imj.jpg', 'imn.jpg'];
+const images = ['imn.png', 'imm.png', 'inn.png', 'inm.png'];
 let index = 0;
 const entryEffects = ["fade-in", "slide-in", "zoom-in"];
 const exitEffects = ["fade-out", "slide-out", "zoom-out"];
@@ -1245,6 +1245,283 @@ const subjects = {
   ],
     "Chm 101": [
 
+    
+        {
+          question: "An atom is composed of__________, _________&_________",
+          options: ["(a) proton neutron neutron", "(b) proton electron neutron", "(c) proton electron"],
+          answer: "(c) proton electron"
+        },
+        {
+          question: "Who is the first person to define \"an atom\"",
+          options: ["(a) Democritus", "(b) John Dalton", "(c) Isaac Newton"],
+          answer: "(a) Democritus"
+        },
+        {
+          question: "In the theory of the universe made by Democritus, one of the following is not among the assumption.",
+          options: ["(a) There is an empty space between atoms", "(b) Atoms have no internal structure", "(c) Atom can neither be created nor destroyed"],
+          answer: "(b) Atoms have no internal structure"
+        },
+        {
+          question: "Who is the Greek philosopher that worked on atom.",
+          options: ["(a) J.J. Thomson", "(b) Democritus", "(c) Ernest Rutherford"],
+          answer: "(b) Democritus"
+        },
+        {
+          question: "Who was the first scientist that adapt Democritus theory into the first modern atomic model.",
+          options: ["(a) John Dalton", "(b) Robert Milikan", "(c) Neils Bohr"],
+          answer: "(a) John Dalton"
+        },
+        {
+          question: "When element reacts ______________",
+          options: ["(a) It is their atoms that have combined to form new compounds", "(b) there is nothing that will happen to the atoms", "(c) the atom remains the same without having any effect"],
+          answer: "(a) It is their atoms that have combined to form new compounds"
+        },
+        {
+          question: "In Dalton Atomic Theory, elements are characterized by_____________",
+          options: ["(a) shape of their atom", "(b) composition of their atom", "(c) weight of their atom"],
+          answer: "(c) weight of their atom"
+        },
+        {
+          question: "Who discovered electron?",
+          options: ["(a) J.J. Thompson", "(b) J.J. Thomson", "(c) all of the above"],
+          answer: "(c) all of the above"
+        },
+        {
+          question: "Electron was discovered using _______________",
+          options: ["(a) cathode ray tube", "(b) electron synthesis", "(c) heating of iron"],
+          answer: "(a) cathode ray tube"
+        },
+        {
+          question: "Which scientist calculate the charge on a single electron?",
+          options: ["(a) Robert Milikan", "(b) Neils Bohr", "(c) J.J. Thomson"],
+          answer: "(a) Robert Milikan"
+        },
+        {
+          question: "Gold foil experiment was accredited to which of the following scientist?",
+          options: ["(a) Thompson", "(b) Ernest Rutherford", "(c) Neils Bohr"],
+          answer: "(b) Ernest Rutherford"
+        },
+        {
+          question: "Which of the following statement is correct?",
+          options: ["(a) The orbit nucleus the electron", "(b) electrons are found inside the nucleus", "(c) electrons orbit the nucleus"],
+          answer: "(c) electrons orbit the nucleus"
+        },
+        {
+          question: "The lower the energy of the electron. ________",
+          options: ["(a) the higher the orbit", "(b) the lower the speed"],
+          answer: "(b) the lower the speed"
+        },
+        {
+          question: "Who used Heisenberg's Uncertainty principle in his research?",
+          options: ["(a) Neils Bohr", "(b) Erwin Schrodinger", "(c) James Hendricks"],
+          answer: "(b) Erwin Schrodinger"
+        },
+        {
+          question: "Electron cloud model was developed in the year?",
+          options: ["(a) 1900", "(b) 1926", "(c) 1981"],
+          answer: "(b) 1926"
+        },
+  
+          // Electron Configuration
+          {
+              question: "What is the electron configuration of oxygen (O)?",
+              options: ["1s2 2s2 2p4", "1s2 2s2 2p6", "1s2 2p4", "1s2 2p2"],
+              answer: "1s2 2s2 2p4"
+          },
+          {
+              question: "Which sublevel is filled after 3p?",
+              options: ["3s", "3d", "4s", "4p"],
+              answer: "3d"
+          },
+          {
+              question: "How many electrons can the 3d sublevel hold?",
+              options: ["2", "6", "10", "14"],
+              answer: "10"
+          },
+          {
+              question: "What is the electron configuration for sodium (Na)?",
+              options: ["1s2 2s2 2p6 3s1", "1s2 2s2 2p6", "1s2 2s2 2p5", "1s2 2s2 3p1"],
+              answer: "1s2 2s2 2p6 3s1"
+          },
+          {
+              question: "Which of the following elements has the electron configuration 1s2 2s2 2p6 3s2 3p6?",
+              options: ["Neon", "Sodium", "Argon", "Krypton"],
+              answer: "Argon"
+          },
+      
+          // Noble Gas Notation
+          {
+              question: "What is the noble gas notation for phosphorus (P)?",
+              options: ["[Ne] 3s2 3p3", "[He] 2s2 2p6 3s2", "[Ar] 4s2 3d10", "[Kr] 5s2"],
+              answer: "[Ne] 3s2 3p3"
+          },
+          {
+              question: "What is the noble gas notation for chlorine (Cl)?",
+              options: ["[Ar] 4s2 3d10", "[Ne] 3s2 3p5", "[He] 2s2 2p6 3s2 3p5", "[Kr] 5s2 4d10"],
+              answer: "[Ne] 3s2 3p5"
+          },
+          {
+              question: "Which of the following elements has the noble gas notation [Kr] 5s2 4d10 5p5?",
+              options: ["Iodine", "Xenon", "Tellurium", "Bromine"],
+              answer: "Iodine"
+          },
+          {
+              question: "What is the noble gas notation for calcium (Ca)?",
+              options: ["[Ne] 3s2", "[Ar] 4s2", "[He] 2s2 2p6", "[Kr] 5s1"],
+              answer: "[Ar] 4s2"
+          },
+      
+          // Electronic Configuration of Iron
+          {
+              question: "What is the electron configuration for iron (Fe)?",
+              options: ["[Ar] 4s2 3d6", "[Ne] 3s2 3p6 4s2 3d6", "[Kr] 5s2 4d10", "[He] 2s2 2p6 3s2"],
+              answer: "[Ar] 4s2 3d6"
+          },
+          {
+              question: "How many unpaired electrons are present in the electron configuration of iron (Fe)?",
+              options: ["0", "1", "2", "4"],
+              answer: "2"
+          },
+      
+          // Division of Elements into Groups
+          {
+              question: "Which of the following elements belongs to Group 17 (Halogens)?",
+              options: ["Oxygen", "Chlorine", "Magnesium", "Helium"],
+              answer: "Chlorine"
+          },
+          {
+              question: "Which element belongs to Group 2 (Alkaline Earth Metals)?",
+              options: ["Sodium", "Calcium", "Bromine", "Argon"],
+              answer: "Calcium"
+          },
+          {
+              question: "Which of the following elements belongs to Group 18 (Noble Gases)?",
+              options: ["Neon", "Nitrogen", "Oxygen", "Phosphorus"],
+              answer: "Neon"
+          },
+      
+          // Ionization Energy
+          {
+              question: "What is ionization energy?",
+              options: ["Energy required to gain an electron", "Energy required to lose an electron", "Energy required to form a bond", "Energy released during a reaction"],
+              answer: "Energy required to lose an electron"
+          },
+          {
+              question: "Which of the following elements has the highest ionization energy?",
+              options: ["Sodium", "Neon", "Potassium", "Magnesium"],
+              answer: "Neon"
+          },
+          {
+              question: "Ionization energy generally increases as you move ________ across a period.",
+              options: ["Left", "Right", "Up", "Down"],
+              answer: "Right"
+          },
+          {
+              question: "Which element has the lowest ionization energy?",
+              options: ["Fluorine", "Lithium", "Boron", "Neon"],
+              answer: "Lithium"
+          },
+      
+          // Electron Affinity
+          {
+              question: "What is electron affinity?",
+              options: ["Energy released when an electron is added to an atom", "Energy absorbed when an electron is added to an atom", "Energy released during bond formation", "Energy required to remove an electron from an atom"],
+              answer: "Energy released when an electron is added to an atom"
+          },
+          {
+              question: "Which of the following elements has the highest electron affinity?",
+              options: ["Chlorine", "Fluorine", "Sodium", "Oxygen"],
+              answer: "Chlorine"
+          },
+          {
+              question: "Electron affinity generally becomes more negative as you move ________ across a period.",
+              options: ["Left", "Right", "Up", "Down"],
+              answer: "Right"
+          },
+          {
+              question: "Which element has the lowest electron affinity?",
+              options: ["Helium", "Neon", "Lithium", "Sodium"],
+              answer: "Neon"
+          },
+          {
+              question: "What is the trend in electron affinity as you move down a group?",
+              options: ["Electron affinity decreases", "Electron affinity increases", "Electron affinity remains constant", "Electron affinity fluctuates"],
+              answer: "Electron affinity decreases"
+          },
+        {
+          question: "Do electrons travel in an exact orbit?",
+          options: ["(a) All of the above", "(b) Maybe", "(c) No"],
+          answer: "(c) No"
+        },
+        {
+          question: "_____________ is the smallest part of an element that take part in a chemical reaction",
+          options: ["(a) compound", "(b) substance", "(c) atom"],
+          answer: "(c) atom"
+        },
+        {
+          question: "Which of the following is not correct?",
+          options: ["(a) If that energy level is full (or at capacity), a new energy level will begin", "(b) Electrons fill up the orbitals, they will fill the higher energy level first", "(c) Electrons orbit the nucleus in orbits that have a set size and energy"],
+          answer: "(b) Electrons fill up the orbitals, they will fill the higher energy level first"
+        },
+        {
+          question: "Thomson atomic model was proposed in which year?",
+          options: ["(a) 1900", "(b) 1925", "(c) 1859"],
+          answer: "(a) 1900"
+        },
+        {
+          question: "When an electron moves from one level to another, this is referred to as........",
+          options: ["(a) Electron movement", "(b) Radiation", "(c) Atomic radiation"],
+          answer: "(b) Radiation"
+        },
+        {
+          question: "One of the following is not among the scientist who attempted to explain atom",
+          options: ["(a) Isaac Newton", "(b) John Dalton", "(c) Erwin Schrodinger"],
+          answer: "(a) Isaac Newton"
+        },
+        {
+          question: "A process in which one more substances are changed into one or more new substances is called........",
+          options: ["(a) Rate of chemical reaction", "(b) Reaction", "(c) Chemical reaction"],
+          answer: "(c) Chemical reaction"
+        },
+        {
+          question: "In chemical change.",
+          options: ["(a) The products formed are the same with the initial substance", "(b) New products are formed", "(c) No reasonable change in the reaction"],
+          answer: "(b) New products are formed"
+        },
+        {
+          question: "Which of the following can be changed in a chemical reaction",
+          options: ["(a) All of the above", "(b) subscript", "(c) Co-efficient"],
+          answer: "(c) Co-efficient"
+        },
+        {
+          question: "For a chemical we look out for",
+          options: ["(a) The reactants of the reaction", "(b) The chemical change", "(c) The nature of the reactants"],
+          answer: "(b) The chemical change"
+        },
+        {
+          question: "....................are used to describe chemical reaction",
+          options: ["(a) Chemical equations", "(b) Chemical kinetics", "(c) Reactants"],
+          answer: "(a) Chemical equations"
+        },
+        {
+          question: "The right hand side of a chemical equation represents.",
+          options: ["(a) Product", "(b) All of the above", "(c) Reactants"],
+          answer: "(a) Product"
+        },
+        {
+          question: "The left hand side of a chemical equation represents",
+          options: ["(a) Products", "(b) None of the above", "(c) Reactants"],
+          answer: "(c) Reactants"
+        },
+        {
+          question: "Balance the equation and use it to answer questions 30-33. W NH3(g)+ xO2(g)______ yNO(g)+ zH2O(g)",
+          options: [
+            { question: "x represents", options: ["(a) 4", "(b) 5", "(c) 3"], answer: "(a) 4" },
+            { question: "Y represents", options: ["(a) 3", "(b) 4", "(c) 5"], answer: "(b) 4" },
+            { question: "Z represents", options: ["(a) 2", "(b) 6", "(c) 4"], answer: "(c) 4" },
+            { question: "W represents", options: ["(a) 3", "(b) 5", "(c) 4"], answer: "(a) 3" }
+          ]
+        },
         {
           question: "Which of the following compounds is held together by ionic bonds?",
           options: ["H2O", "CH4", "NaCl", "NH3"],
@@ -1423,17 +1700,6 @@ const currentQuestions = getShuffledQuestions(selectedSubject);
 
 console.log(currentQuestions); // Use this for your quiz logic
 
-// ✅ Set custom time limits (20 or 30 minutes)
-const subjectTimeLimits = {
-    "Math101": 2400,   // 40 minutes
-    "Phy 101": 1200,   // 20 minutes
-    "Mat 113": 1800,    // 30 minutes
-    "Phy 111": 1800,   // 30 minutes
-    "STA 117": 2400,   // 40 minutes
-    "Chm 101": 1200    // 20 minutes
-   
-    
-};
 
 localStorage.setItem("subjects", JSON.stringify(subjects));
 
@@ -1577,10 +1843,16 @@ if (window.location.pathname.includes("exam.html")) {
 
     // ✅ Timer setup based on subject
     let subjectTimeLimits = {
-        Math: 900,
-        English: 1200,
-        Biology: 1000
+        "Math101": 2400,   // 40 minutes
+        "Phy 101": 1200,   // 20 minutes
+        "Mat 113": 1800,    // 30 minutes
+        "Phy 111": 1800,   // 30 minutes
+        "STA 117": 2400,   // 40 minutes
+        "Chm 101": 2400    // 20 minutes
+ 
         // Add more subjects and their limits
+        // ✅ Set custom time limits (20 or 30 minutes)
+
     };
 
     let timeLeft = subjectTimeLimits[subject] || 1200; // Default 20 min
@@ -1637,17 +1909,11 @@ if (window.location.pathname.includes("exam.html")) {
     showQuestion(currentQuestionIndex);
 }
 
-// ✅ Display results
-if (window.location.pathname.includes("results.html")) {
-  let score = localStorage.getItem("score") || "0";
-  let subject = localStorage.getItem("lastExamSubject");
-  let subjects = JSON.parse(localStorage.getItem("subjects")) || {};
-  let totalQuestions = subjects[subject] ? subjects[subject].length : "Unknown";
 
-  // Format the result as "score / totalQuestions"
-  document.getElementById("resultText").innerText = `Your Score: ${score} / ${totalQuestions}`;
+// Redirect to the homepage
+function goHome() {
+  window.location.href = "index.html"; // Change to your home page URL
 }
-
 // ✅ Homepage login function
 function login() {
     let matricNumber = document.getElementById("matricNumber").value.trim();
@@ -1655,10 +1921,47 @@ function login() {
         localStorage.setItem("matricNumber", matricNumber);
         window.location.href = "subjects.html";
     } else {
-        alert("Invalid Matric Number! It must start with 'ASK'.");
+        alert("Invalid Matric Number! Page not avaiable  'SORRY!!!'.");
     }
+    localStorage.setItem("correctAnswers", correctCount);
+localStorage.setItem("attemptedQuestions", attemptedCount);
+}
+// ✅ Display results
+if (window.location.pathname.includes("results.html")) {
+  let score = parseInt(localStorage.getItem("score") || "0");
+  let correct = localStorage.getItem("correctAnswers") || "";
+  let attempted = localStorage.getItem("attemptedQuestions") || "";
+  let subject = localStorage.getItem("lastExamSubject");
+  let subjects = JSON.parse(localStorage.getItem("subjects")) || {};
+  let totalQuestions = subjects[subject] ? subjects[subject].length : "Unknown";
+
+  let resultTextElement = document.getElementById("resultText");
+  let emojiElement = document.getElementById("emoji");
+
+  // Base result text
+  resultTextElement.innerText = `Your Score: ${score} / ${totalQuestions}\nCorrect: ${correct} / Attempted: ${attempted}`;
+
+  // Add emoji and message based on score
+  if (score < 50) {
+    emojiElement.innerHTML = "😭";
+    emojiElement.classList.add("shake");
+    resultTextElement.innerText += `\nBetter luck next time! 😞\nWe're sorry, but your score is low. Keep learning! 😢`;
+  } else if (score >= 50 && score < 75) {
+    emojiElement.innerHTML = "😕";
+    resultTextElement.innerText += `\nWell done! Keep improving! 👏\nGood job! You've passed. Keep going! 👍`;
+  } else if (score >= 75 && score < 90) {
+    emojiElement.innerHTML = "😊";
+    resultTextElement.innerText += `\nExcellent! You're almost there! 💪\nGreat job! Keep up the good work! 🌟`;
+  } else if (score >= 90) {
+    emojiElement.innerHTML = "😁";
+    resultTextElement.innerText += `\nAmazing! You're a star! 🌟\nOutstanding performance! 🎉 Keep it up!`;
+  }
 }
 
+// Redirect to the homepage
+function goHome() {
+  window.location.href = "index.html"; // Change to your home page URL
+}
 // ✅ Show subjects on subject page
 if (window.location.pathname.includes("subjects.html")) {
     let subjectList = document.getElementById("subjectList");
@@ -1708,4 +2011,59 @@ localStorage.setItem("studentScores", JSON.stringify(studentScores));
 function viewStudentScores() {
   let scores = JSON.parse(localStorage.getItem("studentScores")) || {};
   console.log(scores); // or display it on screen
+}
+
+// Check if user progress is saved in localStorage
+document.addEventListener('DOMContentLoaded', function () {
+    const matricNumber = localStorage.getItem('matricNumber'); // Get saved matric number
+    const subject = localStorage.getItem('subject'); // Get saved subject
+    const currentQuestion = localStorage.getItem('currentQuestion'); // Get saved current question index
+
+    if (matricNumber && subject && currentQuestion) {
+        // If the progress is saved, continue from where the user left off
+        document.getElementById('matricNumber').value = matricNumber;
+        document.getElementById('subject').innerHTML = subject;
+        loadQuestion(currentQuestion); // A function to load the question based on the index
+    } else {
+        // If no progress is saved, start fresh
+        loadFirstQuestion(); // A function to load the first question or initial state
+    }
+});
+
+// Save progress to localStorage
+function saveProgress(matricNumber, subject, currentQuestion) {
+    localStorage.setItem('matricNumber', matricNumber);
+    localStorage.setItem('subject', subject);
+    localStorage.setItem('currentQuestion', currentQuestion);
+}
+
+// When the user navigates to the next question
+function nextQuestion() {
+    let currentQuestionIndex = parseInt(localStorage.getItem('currentQuestion')) || 0;
+    currentQuestionIndex += 1; // Increment the question index
+    saveProgress('12345', 'Chm 101', currentQuestionIndex); // Example values for matric number and subject
+    loadQuestion(currentQuestionIndex);
+}
+
+// When the user navigates to the previous question
+function prevQuestion() {
+    let currentQuestionIndex = parseInt(localStorage.getItem('currentQuestion')) || 0;
+    if (currentQuestionIndex > 0) {
+        currentQuestionIndex -= 1; // Decrement the question index
+        saveProgress('12345', 'Chm 101', currentQuestionIndex); // Example values for matric number and subject
+        loadQuestion(currentQuestionIndex);
+    }
+}
+
+// Load the question based on the current index
+function loadQuestion(index) {
+    // Example logic for loading the question (replace with your own)
+    document.getElementById('questionContainer').innerHTML = `Question ${index + 1}: This is your question text!`;
+
+    // Optionally, you can add other logic to load the question content dynamically here.
+}
+
+// Function to load the first question when no saved progress is found
+function loadFirstQuestion() {
+    document.getElementById('questionContainer').innerHTML = 'Question 1: What is your first question?';
 }
